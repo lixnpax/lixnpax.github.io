@@ -189,6 +189,7 @@ background-position: 0 -70px;
 
 .ds4 .sticks {
     position: absolute;
+    background: url(sticks.png);
     width: 361px;
     height: 105px;
     top: 308px;
@@ -197,7 +198,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(sticks.png);
+    
     height: 94px;
     width: 94px;
 }
