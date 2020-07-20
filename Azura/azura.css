@@ -229,7 +229,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(ps4-assets/dpad.svgz);
+    background: url(dpad.png);
     position: absolute;
 }
 
