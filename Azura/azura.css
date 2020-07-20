@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(base.png);
+    background: url(Azura/base.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -8,7 +8,7 @@
 }
 
 .ds4.disconnected {
-    background: url(disconnected.png);
+    background: url(Azura/disconnected.png);
 }
 
 .ds4.disconnected div {
@@ -41,7 +41,7 @@
 .ds4 .bumper {
     width: 99px;
     height: 23px;
-    background: url(bumper.png) no-repeat;
+    background: url(Azura/bumper.png) no-repeat;
     opacity: 0;
 }
 
